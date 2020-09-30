@@ -1,7 +1,7 @@
 # Tera-FAUWGuide
 <strong>How to install</strong></br>
-create a new folder with whatever name u want in your tera toolbox mods ({YOUR_TERA_TOOLBOX_PATH}\mods\FAUWGuide)</br>
-copy the the "index.js" in the newly created folder</br>
+Create a new folder with whatever name you want in your tera toolbox mods ({YOUR_TERA_TOOLBOX_PATH}\mods\FAUWGuide)</br>
+copy the "index.js" in the newly created folder</br>
 
 <strong>Commands</strong></br>
   <strong>fau</strong> : to enable/disable the mod</br>
